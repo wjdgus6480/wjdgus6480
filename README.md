@@ -58,6 +58,7 @@
 <img src="assets/stack/label-backend.svg" height="38" alt="Backend">
 <img src="assets/stack/nodedotjs.svg" height="38" alt="Node.js">
 <img src="assets/stack/typescript.svg" height="38" alt="TypeScript">
+<img src="assets/stack/python.svg" height="38" alt="Python">
 <img src="assets/stack/api.svg" height="38" alt="REST API">
 </p>
 
@@ -71,14 +72,6 @@
 <img src="assets/stack/label-database.svg" height="38" alt="Database">
 <img src="assets/stack/mysql.svg" height="38" alt="MySQL">
 <img src="assets/stack/supabase.svg" height="38" alt="Supabase">
-</p>
-
-<p>
-<img src="assets/stack/label-ai-data.svg" height="38" alt="AI & Data">
-<img src="assets/stack/python.svg" height="38" alt="Python">
-<img src="assets/stack/pandas.svg" height="38" alt="Pandas">
-<img src="assets/stack/numpy.svg" height="38" alt="NumPy">
-<img src="assets/stack/scikitlearn.svg" height="38" alt="scikit-learn (학습 중)">
 </p>
 
 <p>
